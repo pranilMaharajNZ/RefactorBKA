@@ -1,0 +1,17 @@
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.Tests.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.Tests.pdb
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\Moq.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.DontRefactor.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.DontRefactor.pdb
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\RefactorMe.pdb
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\Moq.xml
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.pdb
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\nunit.core.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\nunit.util.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll

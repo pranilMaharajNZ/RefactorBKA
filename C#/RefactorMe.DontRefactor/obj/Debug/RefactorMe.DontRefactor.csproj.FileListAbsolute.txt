@@ -1,0 +1,5 @@
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.DontRefactor\bin\Debug\RefactorMe.DontRefactor.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.DontRefactor\bin\Debug\RefactorMe.DontRefactor.pdb
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.csprojResolveAssemblyReference.cache
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.dll
+C:\Users\Pranil\Downloads\refactorme-be\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.pdb
